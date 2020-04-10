@@ -1,5 +1,5 @@
 # genwpsalts
-A bash script, based on `pwgen`, used to quickly generate secure, random salts for Wordpress based projects.
+A bash script, based on `pwgen`, used to quickly generate secure, random salts for Wordpress-based projects.
 
 ## Requirements
 - pwgen: Get it [here](http://sourceforge.net/projects/pwgen) or [build from source](https://github.com/jbernard/pwgen)
